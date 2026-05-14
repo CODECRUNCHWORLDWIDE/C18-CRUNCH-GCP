@@ -1,0 +1,31 @@
+Code Crunch Club — C18 Crunch GCP (Google Cloud Engineering)
+Copyright (C) 2026 Code Crunch Club
+
+This curriculum and all accompanying materials (lecture notes, exercises,
+challenges, quizzes, homework problems, mini-projects, capstone spec, charter,
+and syllabus) are licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+You are free to:
+
+  - Use this material for personal study, cohort instruction, or commercial
+    teaching, in any country, online or in person.
+  - Fork it. Adapt it. Translate it. Run a local cohort with it.
+  - Redistribute modified versions, provided you:
+      * Retain this copyright notice.
+      * Distribute under the same GPL-3.0 terms.
+      * Make your source modifications available to your students.
+
+The full GPL-3.0 license text is available at:
+
+    https://www.gnu.org/licenses/gpl-3.0.txt
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+If you improve this curriculum — clearer lecture notes, better exercises,
+new mini-projects, capstone variants — please open a pull request against the
+upstream repository at https://github.com/CODE-CRUNCH-CLUB so the rest of the
+academy can benefit. We read every PR.
+
+Maintained by the Code Crunch Club curriculum council.
