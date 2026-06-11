@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 [![GCP](https://img.shields.io/badge/cloud-Google%20Cloud-4285F4.svg)](https://cloud.google.com/)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-B98F3E.svg)](https://github.com/CODE-CRUNCH-CLUB)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-B98F3E.svg)](https://github.com/codecrunchworldwide)
 
 This is the Google Cloud track of the Code Crunch Crunch Labs tier. It assumes you have completed **C1** and **C15 (Crunch DevOps)** or carry equivalent industry experience with Docker, Kubernetes, and Terraform. It also assumes Linux fluency at the C14 level. Crunch GCP is not a "GCP for beginners" survey. It is a production-engineering course that uses Google Cloud as the substrate.
 
