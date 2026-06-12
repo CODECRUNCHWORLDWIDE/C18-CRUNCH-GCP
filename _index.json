@@ -1,0 +1,689 @@
+{
+  "repo": "C18-CRUNCH-GCP",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Crunch GCP"
+    },
+    {
+      "path": "README.md",
+      "title": "C18 \u00b7 Crunch GCP \u2014 Google Cloud Engineering"
+    },
+    {
+      "path": "community/CHARTER.md",
+      "title": "C18 \u00b7 Crunch GCP \u2014 Charter"
+    },
+    {
+      "path": "curriculum/SYLLABUS.md",
+      "title": "C18 \u00b7 Crunch GCP \u2014 Syllabus"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/README.md",
+      "title": "Week 1 \u2014 The GCP Resource Hierarchy & Billing Discipline"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/challenges/README.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/challenges/challenge-01-terraform-landing-zone.md",
+      "title": "Challenge 1 \u2014 Terraform Landing Zone, Budgets Armed First"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/exercises/README.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/exercises/exercise-01-arm-the-budget-first.md",
+      "title": "Exercise 1 \u2014 Arm the Budget First (MANDATORY)"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/lecture-notes/01-project-boundaries-vs-aws-accounts.md",
+      "title": "Lecture 1 \u2014 Project Boundaries vs. AWS Accounts: Where GCP's Isolation Primitive Is Stronger, and Where It Is Weaker"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/lecture-notes/02-billing-accounts-and-budget-alert-routing.md",
+      "title": "Lecture 2 \u2014 Billing Accounts and Budget Alert Routing: Page Slack Before You Page Your CTO"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Landing-Zone Module"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-gcp-resource-hierarchy-and-billing-discipline/resources.md",
+      "title": "Week 1 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/README.md",
+      "title": "Week 2 \u2014 IAM, Service Accounts, and Workload Identity"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/challenges/README.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/challenges/challenge-01-wif-github-actions-and-second-provider.md",
+      "title": "Challenge 1 \u2014 Keyless Deploys with WIF, Then a Second Provider"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/exercises/README.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/exercises/exercise-01-custom-least-privilege-role.md",
+      "title": "Exercise 1 \u2014 A Custom Least-Privilege Role"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/homework.md",
+      "title": "Week 2 Homework"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/lecture-notes/01-the-five-iam-mistakes.md",
+      "title": "Lecture 1 \u2014 The Five IAM Mistakes That Own Production Incidents"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/lecture-notes/02-impersonation-and-workload-identity-federation.md",
+      "title": "Lecture 2 \u2014 Impersonation vs. Workload Identity Federation: Ending the Keyfile Era"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/mini-project/README.md",
+      "title": "Mini-Project \u2014 The IAM Baseline Module"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-iam-service-accounts-and-workload-identity/resources.md",
+      "title": "Week 2 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/README.md",
+      "title": "Week 3 \u2014 VPC, Subnets, Routes, and Cloud NAT"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/challenges/README.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/challenges/challenge-01-multi-region-shared-vpc.md",
+      "title": "Challenge 1 \u2014 Multi-region shared VPC with NAT, PGA, and a hierarchical firewall policy"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/exercises/README.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/exercises/exercise-01-firewall-without-lockout.md",
+      "title": "Exercise 1 \u2014 Firewall rules for a real service, without locking yourself out"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/homework.md",
+      "title": "Week 3 Homework"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/lecture-notes/01-global-vpc-vs-regional-vpc.md",
+      "title": "Lecture 1 \u2014 The Global VPC: subnets, routes, firewalls, Cloud NAT, and Private Google Access"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/lecture-notes/02-shared-vpc-peering-and-ncc.md",
+      "title": "Lecture 2 \u2014 The connectivity decision: shared VPC vs peering vs Network Connectivity Center"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/mini-project/README.md",
+      "title": "Mini-Project \u2014 `modules/vpc`: a reusable multi-region shared-VPC module for the landing zone"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-vpc-subnets-routes-and-cloud-nat/resources.md",
+      "title": "Week 3 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/README.md",
+      "title": "Week 4 \u2014 Terraform for GCP, End-to-End"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/challenges/README.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/challenges/challenge-01-refactor-weeks-01-03-into-a-module-library.md",
+      "title": "Challenge 1 \u2014 Refactor the Weeks 01\u201303 deliverables into a reusable module library"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/exercises/README.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/exercises/exercise-01-gcs-remote-backend-with-locking.md",
+      "title": "Exercise 1 \u2014 Configure a GCS remote backend with state locking and migrate local state into it"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/homework.md",
+      "title": "Week 4 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/lecture-notes/01-click-then-codify-drift-and-plan-review.md",
+      "title": "Lecture 1 \u2014 Click-then-codify, drift, remote state, and the plan-review discipline that keeps IaC honest"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/lecture-notes/02-config-connector-and-cloud-foundation-toolkit.md",
+      "title": "Lecture 2 \u2014 Where Config Connector and the Cloud Foundation Toolkit beat raw HCL (and where they don't)"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Week 04 Terraform Module Library"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-terraform-for-gcp-end-to-end/resources.md",
+      "title": "Week 4 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/README.md",
+      "title": "Week 5 \u2014 Compute Engine, Instance Groups, and Managed VMs"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/challenges/README.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/challenges/challenge-01-ilb-mig-zero-drop-failover.md",
+      "title": "Challenge 1 \u2014 Internal LB + MIG, Zero-Drop Failover Under Chaos"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/exercises/README.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/exercises/exercise-01-instance-template-os-login-shielded-vm.md",
+      "title": "Exercise 1 \u2014 Hardened Instance Template + One Instance"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/homework.md",
+      "title": "Week 5 Homework"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/lecture-notes/01-when-vms-are-still-right-in-2026.md",
+      "title": "Lecture 1 \u2014 When VMs Are Still the Right Answer in 2026"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/lecture-notes/02-machine-families-and-price-performance.md",
+      "title": "Lecture 2 \u2014 Machine Families and Price-Performance: Choosing E2/N2/N2D/C3/T2D and Defending It"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/mini-project/README.md",
+      "title": "Mini-Project \u2014 A Self-Healing Regional MIG Behind an Internal LB"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-compute-engine-instance-groups-and-managed-vms/resources.md",
+      "title": "Week 5 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/README.md",
+      "title": "Week 6 \u2014 GKE: Autopilot vs. Standard"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/challenges/README.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/challenges/challenge-01-autopilot-vs-standard-bakeoff.md",
+      "title": "Challenge 1 \u2014 Autopilot vs. Standard-with-spot: cold-start, scale-out, and monthly cost"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/exercises/README.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/exercises/exercise-01-fastapi-on-autopilot-with-a-pdb.md",
+      "title": "Exercise 1 \u2014 Deploy FastAPI to Autopilot with a PodDisruptionBudget"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/homework.md",
+      "title": "Week 6 Homework"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/lecture-notes/01-autopilot-constraints-and-the-cost-model.md",
+      "title": "Lecture 1 \u2014 When Autopilot's Constraints Save You Money, and When They Cost You a Feature You Needed"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/lecture-notes/02-the-four-gke-upgrade-strategies.md",
+      "title": "Lecture 2 \u2014 The Four GKE Upgrade Strategies and What Each Costs in Availability"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Long-Lived GKE Standard Cluster"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-gke-autopilot-vs-standard/resources.md",
+      "title": "Week 6 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/README.md",
+      "title": "Week 7 \u2014 Cloud Run, Cloud Functions, and the Serverless Decision"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/challenges/README.md",
+      "title": "Week 7 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/challenges/challenge-01-coldstart-bakeoff-behind-cloud-armor.md",
+      "title": "Challenge 1 \u2014 Cold-start bakeoff: Cloud Run + private Cloud SQL over PSC, behind Cloud Armor"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/exercises/README.md",
+      "title": "Week 7 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/exercises/exercise-01-tune-concurrency-and-cpu.md",
+      "title": "Exercise 1 \u2014 Deploy a Cloud Run v2 service and tune concurrency and CPU allocation for a target latency"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/homework.md",
+      "title": "Week 7 Homework"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/lecture-notes/01-the-serverless-cost-curve.md",
+      "title": "Lecture 1 \u2014 The Serverless Cost Curve: Where Cloud Run Beats GKE and Where GKE Beats Cloud Run"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/lecture-notes/02-min-instances-one-break-even.md",
+      "title": "Lecture 2 \u2014 The \"min-instances=1 Pays for Itself\" Threshold and How to Compute It"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Ingest Service: Cloud Run + private Cloud SQL over PSC + an Eventarc-triggered job"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-cloud-run-cloud-functions-and-the-serverless-decision/resources.md",
+      "title": "Week 7 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/README.md",
+      "title": "Week 8 \u2014 Cloud Load Balancing & Cloud Armor"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/challenges/README.md",
+      "title": "Week 8 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/challenges/challenge-01-front-week07-with-armor-and-validate-under-load.md",
+      "title": "Challenge 1 \u2014 Front the Week 07 Cloud Run Service with a Global HTTPS LB, Cloud CDN, and a Cloud Armor Policy, Then Validate Under Load"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/exercises/README.md",
+      "title": "Week 8 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/exercises/exercise-01-global-https-lb-with-cloud-run-neg-and-cdn.md",
+      "title": "Exercise 1 \u2014 A Global External HTTPS Load Balancer with a Cloud Run NEG and Cloud CDN"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/lecture-notes/01-the-five-layer-gcp-edge.md",
+      "title": "Lecture 1 \u2014 The Five-Layer GCP Edge: DNS \u2192 Cloud Armor \u2192 Cloud CDN \u2192 LB \u2192 Backend, and What Each Layer Can and Cannot Protect"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/lecture-notes/02-cloud-armor-in-cel.md",
+      "title": "Lecture 2 \u2014 Cloud Armor in Common Expression Language: Rate Limiting, Preconfigured WAF Rules, and Bot Management"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/mini-project/README.md",
+      "title": "Mini-Project \u2014 A Global L7 Edge Over Three Backends, and the Phase 1+2 Midterm Architecture Review"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-cloud-load-balancing-and-cloud-armor/resources.md",
+      "title": "Week 8 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/README.md",
+      "title": "Week 9 \u2014 Pub/Sub and Dataflow (Apache Beam)"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/challenges/README.md",
+      "title": "Week 9 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/challenges/challenge-01-kill-the-workers.md",
+      "title": "Challenge 1 \u2014 Kill the workers, prove exactly-once"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/exercises/README.md",
+      "title": "Week 9 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/exercises/exercise-01-ordering-key-and-dlq.md",
+      "title": "Exercise 1 \u2014 Ordering key + dead-letter topic, proven"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/homework.md",
+      "title": "Week 9 Homework"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/lecture-notes/01-pubsub-vs-kafka-nats-sqs.md",
+      "title": "Lecture 1 \u2014 Pub/Sub vs. Kafka vs. NATS vs. SQS: when each wins"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/lecture-notes/02-watermarks-late-data-and-triggers.md",
+      "title": "Lecture 2 \u2014 Watermarks, late data, and triggers: why a pipeline shipped wrong numbers for six months"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/mini-project/README.md",
+      "title": "Mini-Project \u2014 Deployable streaming-ingest pipeline (generator \u2192 Pub/Sub \u2192 Dataflow \u2192 BigQuery)"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-pubsub-and-dataflow-apache-beam/resources.md",
+      "title": "Week 9 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/README.md",
+      "title": "Week 10 \u2014 BigQuery Deep"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/challenges/README.md",
+      "title": "Week 10 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/challenges/challenge-01-on-demand-vs-reservation.md",
+      "title": "Challenge 1 \u2014 On-Demand vs. a 100-Slot Reservation: Recommend the Cheaper Option with Numbers"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/exercises/README.md",
+      "title": "Week 10 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/exercises/exercise-01-land-and-confirm-with-information-schema.md",
+      "title": "Exercise 1 \u2014 Land a Public Dataset into a Partitioned-and-Clustered Table, Confirm with `INFORMATION_SCHEMA`"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/homework.md",
+      "title": "Week 10 Homework"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/lecture-notes/01-the-three-queries-that-cost-2000.md",
+      "title": "Lecture 1 \u2014 BigQuery's Pricing Model Is the Failure Mode: The Three Queries That Cost \\$2000 by Accident"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/lecture-notes/02-reading-the-query-plan-and-scan-less.md",
+      "title": "Lecture 2 \u2014 Reading the Query Plan and the \"Scan Less\" Mental Discipline"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Analytics Layer on the Week 09 Pipeline"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/quiz.md",
+      "title": "Week 10 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-10-bigquery-deep/resources.md",
+      "title": "Week 10 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/README.md",
+      "title": "Week 11 \u2014 Spanner, Cloud SQL, AlloyDB, and the Database Decision"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/challenges/README.md",
+      "title": "Week 11 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/challenges/challenge-01-datastream-spanner-migration.md",
+      "title": "Challenge 1 \u2014 Cloud SQL \u2192 Spanner Migration with a Shadow-Test (and a Teardown Before Bed)"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/exercises/README.md",
+      "title": "Week 11 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/exercises/exercise-01-cloud-sql-ha-replica-psc.md",
+      "title": "Exercise 1 \u2014 Cloud SQL: HA + Read Replica + PSC, No Public IP"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/homework.md",
+      "title": "Week 11 Homework"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/lecture-notes/01-spanner-is-not-managed-postgres-at-scale.md",
+      "title": "Lecture 1 \u2014 Spanner Is Not \"Managed Postgres at Scale\""
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/lecture-notes/02-cockroachdb-yugabyte-and-what-truetime-made-possible.md",
+      "title": "Lecture 2 \u2014 CockroachDB, YugabyteDB, and What TrueTime Made Possible"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/mini-project/README.md",
+      "title": "Mini-Project \u2014 The \"Current-State\" Service: Cloud SQL Now, Spanner-Ready"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/quiz.md",
+      "title": "Week 11 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-11-spanner-cloud-sql-alloydb-and-the-database-decision/resources.md",
+      "title": "Week 11 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/README.md",
+      "title": "Week 12 \u2014 Vertex AI, Model Garden, and Serving Inference"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/challenges/README.md",
+      "title": "Week 12 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/challenges/challenge-01-circuit-breaker-fallback-and-bench.md",
+      "title": "Challenge 1 \u2014 Circuit-breaker fallback and the three-way benchmark"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/exercises/README.md",
+      "title": "Week 12 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/exercises/exercise-01-deploy-model-garden-endpoint.md",
+      "title": "Exercise 1 \u2014 Deploy a Model Garden model to a Vertex AI Endpoint with GPU autoscaling"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/homework.md",
+      "title": "Week 12 Homework"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/lecture-notes/01-the-build-vs-call-decision.md",
+      "title": "Lecture 1 \u2014 The Build-vs-Call Decision: Vertex Endpoint vs. Gemini API vs. self-hosted vLLM/TGI on GKE"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/lecture-notes/02-the-price-latency-sovereignty-triangle.md",
+      "title": "Lecture 2 \u2014 The Price/Latency/Sovereignty Triangle for Model Serving"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Serving Tier: a Vertex client with circuit-breaker Gemini fallback on the Week 06 GKE cluster"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/quiz.md",
+      "title": "Week 12 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-12-vertex-ai-model-garden-and-serving-inference/resources.md",
+      "title": "Week 12 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/README.md",
+      "title": "Week 13 \u2014 Observability with OpenTelemetry: Traces, Metrics, Logs, SLOs, and Burn-Rate Alerts"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/challenges/README.md",
+      "title": "Week 13 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/challenges/challenge-01-instrument-the-fleet.md",
+      "title": "Challenge 1 \u2014 Instrument the whole fleet and validate the alert by breaking it"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/exercises/README.md",
+      "title": "Week 13 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/exercises/exercise-01-instrument-a-python-service.md",
+      "title": "Exercise 1 \u2014 Instrument a Python service with OpenTelemetry and export to Cloud Trace + Cloud Monitoring"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/exercises/exercise-04-instrument-a-go-service.md",
+      "title": "Exercise 4 \u2014 Instrument a Go service with OpenTelemetry and export to Cloud Trace + Cloud Monitoring"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/homework.md",
+      "title": "Week 13 Homework"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/lecture-notes/01-alert-hygiene-and-golden-signals.md",
+      "title": "Lecture 1 \u2014 Alert Hygiene, the Four Golden Signals, and the OpenTelemetry Data Model"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/lecture-notes/02-slos-and-multi-window-burn-rate-alerts.md",
+      "title": "Lecture 2 \u2014 SLIs, SLOs, Error Budgets, and Multi-Window Burn-Rate Alerts"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/mini-project/README.md",
+      "title": "Mini-Project \u2014 Fleet-Wide Observability: instrument Weeks 06\u201312, one SLO each, and the portfolio writeup"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/quiz.md",
+      "title": "Week 13 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-13-observability-with-opentelemetry/resources.md",
+      "title": "Week 13 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/README.md",
+      "title": "Week 14 \u2014 Security Hardening, FinOps, and the On-Call Drill"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/challenges/README.md",
+      "title": "Week 14 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/challenges/challenge-01-harden-perimeter-and-run-the-drill.md",
+      "title": "Challenge 1 \u2014 Harden the perimeter and run the drill"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/exercises/README.md",
+      "title": "Week 14 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/exercises/exercise-01-org-policy-bundle-and-verify.md",
+      "title": "Exercise 1 \u2014 Apply an Organization Policy bundle and verify enforcement"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/homework.md",
+      "title": "Week 14 Homework"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/lecture-notes/01-the-five-security-defaults.md",
+      "title": "Lecture 1 \u2014 The Five Security Defaults You Must Change on Day One of Any New GCP Org"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/lecture-notes/02-three-finops-moves-and-the-drill.md",
+      "title": "Lecture 2 \u2014 The Three FinOps Moves That Pay Back Inside One Quarter, and the On-Call Drill"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Hardened Production Posture"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/quiz.md",
+      "title": "Week 14 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-14-security-hardening-finops-and-the-on-call-drill/resources.md",
+      "title": "Week 14 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/README.md",
+      "title": "Week 15 \u2014 Capstone Delivery and Architecture Review"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/challenges/README.md",
+      "title": "Week 15 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/challenges/challenge-01-deliver-the-capstone-live.md",
+      "title": "Challenge 1 \u2014 Deliver the Realtime Event Pipeline at Scale, live"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/exercises/README.md",
+      "title": "Week 15 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/exercises/exercise-01-load-test-100rps-p99.md",
+      "title": "Exercise 1 \u2014 Load test at 100 RPS for 30 minutes, verify p99 < 500ms end-to-end"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/homework.md",
+      "title": "Week 15 Homework"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/lecture-notes/01-how-a-real-architecture-review-runs.md",
+      "title": "Lecture 1 \u2014 How a Real Architecture Review Runs"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/lecture-notes/02-the-exit-plan-defending-the-cost-of-leaving-gcp.md",
+      "title": "Lecture 2 \u2014 The Exit Plan: Defending the Cost of Leaving GCP"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/mini-project/README.md",
+      "title": "Mini-Project \u2014 The Full Capstone Integration: Realtime Event Pipeline at Scale"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/quiz.md",
+      "title": "Week 15 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-15-capstone-delivery-and-architecture-review/resources.md",
+      "title": "Week 15 \u2014 Resources"
+    }
+  ]
+}
